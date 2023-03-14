@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+#fonok {
+  float: right;
+  width: 150px;
+  height: 150px;
+}
